@@ -1,6 +1,4 @@
-"""_summary_
-Comprehensive Python Assginment
-"""
+"""Comprehensive Python Assginment"""
 
 # Section: 1 Start
 
