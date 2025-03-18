@@ -1,3 +1,5 @@
+"""First Python assignment involving basics"""
+
 # **********Lists, Tuples and Sets**********
 # movies_list = ['Anaconda', 'A Bronx Tale', 'BlindSide', 'Iron-Man', 'Man Of Steel']
 # print(movies_list)
@@ -72,7 +74,7 @@
 #     print(f'{check} found. Value is: {test_dict[check]}')
 # else:
 #     print(f'{check} not found in dict.')
-    
+
 # num_dict = {x: x**2 for x in range(1,6)}
 # print(f'Numbers Dict before inversion: {num_dict}')
 # num_dict_inverted = {value: key for key, value in num_dict.items()}
@@ -85,7 +87,7 @@
 #     else:
 #         return False
 
-# while True:    
+# while True:
 #     try:
 #         year = int(input('Enter year to calculate Leap Year: '))
 #         break
@@ -99,7 +101,7 @@
 #     print(f'{year} is not Leap Year.')
 
 
-# i = 1    
+# i = 1
 # while True:
 #     if(i % 4 == 0):
 #         print(f'Breaking loop as {i} is divisible by 4.')
@@ -116,7 +118,7 @@
 #         print(f'You entered Negative Integer. {num}')
 #     else:
 #         print(f'You entered Positive Integer. {num}')
-        
+
 # while True:
 #     try:
 #         num = int(input('Enter Your Number: '))
@@ -139,7 +141,7 @@
 #         break
 #     except ValueError:
 #         print('Invalid Input!! \nKindly Enter your number again.')
-        
+
 # try:
 #     division = numerator/denominator
 #     print(f'The division of given expression {numerator}/{denominator} is {division}.')
